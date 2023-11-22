@@ -1,0 +1,17 @@
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\bin\Debug\net8.0-windows\GuildRosterApp.exe
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\bin\Debug\net8.0-windows\GuildRosterApp.deps.json
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\bin\Debug\net8.0-windows\GuildRosterApp.runtimeconfig.json
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\bin\Debug\net8.0-windows\GuildRosterApp.dll
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\bin\Debug\net8.0-windows\GuildRosterApp.pdb
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\obj\Debug\net8.0-windows\GuildRosterApp.FrmCharacter.resources
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\obj\Debug\net8.0-windows\GuildRosterApp.FrmGuildRoster.resources
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\obj\Debug\net8.0-windows\GuildRosterApp.csproj.GenerateResource.cache
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\obj\Debug\net8.0-windows\GuildRosterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\obj\Debug\net8.0-windows\GuildRosterApp.AssemblyInfoInputs.cache
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\obj\Debug\net8.0-windows\GuildRosterApp.AssemblyInfo.cs
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\obj\Debug\net8.0-windows\GuildRosterApp.csproj.CoreCompileInputs.cache
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\obj\Debug\net8.0-windows\GuildRosterApp.dll
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\obj\Debug\net8.0-windows\refint\GuildRosterApp.dll
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\obj\Debug\net8.0-windows\GuildRosterApp.pdb
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\obj\Debug\net8.0-windows\GuildRosterApp.genruntimeconfig.cache
+C:\Users\Owie\source\repos\GuildRosterApp\GuildRosterApp\obj\Debug\net8.0-windows\ref\GuildRosterApp.dll
